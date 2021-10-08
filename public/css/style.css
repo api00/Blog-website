@@ -1,0 +1,54 @@
+.links{
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400;
+    margin-right: 20%;
+    
+}
+.links li{
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    color: rgb(255, 247, 247);
+    padding: 10px 20px;
+    border-radius: 5px ;
+    background-color: slategrey;
+}
+a:hover{
+    text-decoration: none;
+    color: white;
+    
+}
+.color-nav{
+    color: red;
+}
+.card-left{
+    max-width: 400px;
+    margin: 40px;
+    
+
+}
+.card-left img{
+    height: 300px;
+    width: 400px;
+   
+}
+
+button{
+    
+    color: black;
+    text-decoration: none;
+    margin-right: 20px;
+    display: inline-block;
+    margin-top: 20px;
+    color: rgb(255, 247, 247);
+    padding: 10px 20px;
+    border-radius: 5px ;
+    background-color: slategrey;
+    cursor: pointer;
+}
